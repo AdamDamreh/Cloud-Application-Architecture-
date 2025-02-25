@@ -4,7 +4,7 @@ import matplotlib
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from dotenv import load_dotenv
-
+#demonstrates mastery of external API communication
 
 def main():
     load_dotenv()
